@@ -4,7 +4,7 @@ LEVEL 4 COMPLETE: fixed the typo on hallway sign
 
 LEVEL 6 CHEST CODE: FOX-7
 
-LEVEL 8 PR LINK: https://github.com/janjan090/cpe411l-git-quest/pull/63
+LEVEL 8 PR LINK: https://github.com/Krab-uwu/cpe411l-git-quest/pull/1
 
 LEVEL 9: ujdgcuagdfuweudfewuf
 
